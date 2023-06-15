@@ -1,2 +1,2 @@
 # capsone-project
-hotel analysis
+regression
