@@ -1,0 +1,20 @@
+# DATA MANIPULATION
+DATA FILTERATION
+I have filtered the data ⁉
+
+i have created a new unique id as a new variable to store every booking uniquely in order to fecilitate counting,,from the dataset so as to make it more informative.
+
+,i have filtered important variables on which i will be working 
+
+HANDLING OUTLIERS:
+THE TECHNIQUE I USED FOR REMOVING OUTLIERS INVOLVES FOLLOWING STEPS:
+
+FIRST WE HAVE ALREADY MADE BOXPLOT AND HISTOGRAM IN CHARTS FROM WHERE WE GET TO KNOW ALL COMMON RANGE AND OUTLIERS
+
+NOW WE HAVE MADE NEW DATASET TO INCLUDE ALL VARIABLES BY USING FLITERS
+
+THIS TECHNIQUE IS SOMEHOW SIMPLE AND EASY TO USE.
+
+HANDLING MISSING VALUES
+ here i have removed the columns containing more than 60% null values.
+we have also used substitituting null values criteria
